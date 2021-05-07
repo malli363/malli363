@@ -1,0 +1,36 @@
+        html{
+            scroll-behavior: smooth;
+        }
+        body{
+            text-align: center;
+       background: linear-gradient(45deg,rgb(135,145,145),salmon ,lightgreen )
+         }
+         h1{
+             font-family: 'Times New Roman', Times, serif;
+         }
+         h2{
+             background: linear-gradient(45deg, blue, yellow, red);
+             color: currentColor;
+             padding: 10px;
+             border-radius: 50%;
+             width:70%;
+             margin: auto;
+                box-shadow:  0px 0px 0px blueviolet ;
+                text-shadow:0px 0px 0px white;
+         }
+         p{
+             color:whitesmoke;
+       
+         }
+         table{
+             width: 100%;
+         }
+            img{
+                border-radius: 40px;
+                box-shadow: 0px 0px 10px blanchedalmond;
+            }
+
+
+
+
+
